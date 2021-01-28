@@ -1,0 +1,130 @@
+C:\Users\Administrator\source\repos\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\NLUSchedule.exe
+C:\Users\Administrator\source\repos\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\NLUSchedule.deps.json
+C:\Users\Administrator\source\repos\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\NLUSchedule.runtimeconfig.json
+C:\Users\Administrator\source\repos\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\NLUSchedule.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\NLUSchedule.dll
+C:\Users\Administrator\source\repos\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\NLUSchedule.pdb
+C:\Users\Administrator\source\repos\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\FontAwesome.Sharp.dll
+C:\Users\Administrator\source\repos\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\Administrator\source\repos\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Administrator\source\repos\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.checkUser.CheckChrome.resources
+C:\Users\Administrator\source\repos\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.checkUser.CheckInternet.resources
+C:\Users\Administrator\source\repos\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormAbout.resources
+C:\Users\Administrator\source\repos\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormHocPhi.resources
+C:\Users\Administrator\source\repos\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormHome.resources
+C:\Users\Administrator\source\repos\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormLichThi.resources
+C:\Users\Administrator\source\repos\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormProfile.resources
+C:\Users\Administrator\source\repos\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormTKB.FormCalendarTKB.resources
+C:\Users\Administrator\source\repos\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormTKB.FormTableTKB.resources
+C:\Users\Administrator\source\repos\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormViewTKB.resources
+C:\Users\Administrator\source\repos\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.MainForm.resources
+C:\Users\Administrator\source\repos\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.Properties.Resources.resources
+C:\Users\Administrator\source\repos\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.csproj.CopyComplete
+C:\Users\Administrator\source\repos\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.dll
+C:\Users\Administrator\source\repos\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.pdb
+C:\Users\Administrator\source\repos\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\NLUSchedule.exe
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\NLUSchedule.deps.json
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\NLUSchedule.runtimeconfig.json
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\NLUSchedule.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\NLUSchedule.dll
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\NLUSchedule.pdb
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\FontAwesome.Sharp.dll
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.checkUser.CheckInternet.resources
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormAbout.resources
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormHocPhi.resources
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormHome.resources
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormLichThi.resources
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormProfile.resources
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormTKB.FormCalendarTKB.resources
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormTKB.FormTableTKB.resources
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormViewTKB.resources
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.MainForm.resources
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.csproj.CopyComplete
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.dll
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.pdb
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.Form_ghiChu.resources
+D:\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\NLUSchedule.exe
+D:\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\NLUSchedule.deps.json
+D:\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\NLUSchedule.runtimeconfig.json
+D:\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\NLUSchedule.runtimeconfig.dev.json
+D:\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\NLUSchedule.dll
+D:\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\NLUSchedule.pdb
+D:\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\FontAwesome.Sharp.dll
+D:\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.csprojAssemblyReference.cache
+D:\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.checkUser.CheckInternet.resources
+D:\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormAbout.resources
+D:\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormHocPhi.resources
+D:\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormHome.resources
+D:\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormLichThi.resources
+D:\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormProfile.resources
+D:\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormTKB.FormCalendarTKB.resources
+D:\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormTKB.FormTableTKB.resources
+D:\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormViewTKB.resources
+D:\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.Form_ghiChu.resources
+D:\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.MainForm.resources
+D:\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.Properties.Resources.resources
+D:\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.csproj.GenerateResource.cache
+D:\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.AssemblyInfoInputs.cache
+D:\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.AssemblyInfo.cs
+D:\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.csproj.CoreCompileInputs.cache
+D:\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.csproj.CopyComplete
+D:\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.dll
+D:\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.pdb
+D:\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.genruntimeconfig.cache
+D:\backup project.net\STABLE STABLE STABLE STABLE STSBLE STABLE\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\NLUSchedule.exe
+D:\backup project.net\STABLE STABLE STABLE STABLE STSBLE STABLE\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\NLUSchedule.deps.json
+D:\backup project.net\STABLE STABLE STABLE STABLE STSBLE STABLE\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\NLUSchedule.runtimeconfig.json
+D:\backup project.net\STABLE STABLE STABLE STABLE STSBLE STABLE\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\NLUSchedule.runtimeconfig.dev.json
+D:\backup project.net\STABLE STABLE STABLE STABLE STSBLE STABLE\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\NLUSchedule.dll
+D:\backup project.net\STABLE STABLE STABLE STABLE STSBLE STABLE\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\NLUSchedule.pdb
+D:\backup project.net\STABLE STABLE STABLE STABLE STSBLE STABLE\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\FontAwesome.Sharp.dll
+D:\backup project.net\STABLE STABLE STABLE STABLE STSBLE STABLE\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\backup project.net\STABLE STABLE STABLE STABLE STSBLE STABLE\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\backup project.net\STABLE STABLE STABLE STABLE STSBLE STABLE\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\backup project.net\STABLE STABLE STABLE STABLE STSBLE STABLE\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.csprojAssemblyReference.cache
+D:\backup project.net\STABLE STABLE STABLE STABLE STSBLE STABLE\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.checkUser.CheckInternet.resources
+D:\backup project.net\STABLE STABLE STABLE STABLE STSBLE STABLE\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormAbout.resources
+D:\backup project.net\STABLE STABLE STABLE STABLE STSBLE STABLE\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormHocPhi.resources
+D:\backup project.net\STABLE STABLE STABLE STABLE STSBLE STABLE\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormHome.resources
+D:\backup project.net\STABLE STABLE STABLE STABLE STSBLE STABLE\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormLichThi.resources
+D:\backup project.net\STABLE STABLE STABLE STABLE STSBLE STABLE\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormProfile.resources
+D:\backup project.net\STABLE STABLE STABLE STABLE STSBLE STABLE\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormTKB.FormCalendarTKB.resources
+D:\backup project.net\STABLE STABLE STABLE STABLE STSBLE STABLE\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormTKB.FormTableTKB.resources
+D:\backup project.net\STABLE STABLE STABLE STABLE STSBLE STABLE\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.FormViewTKB.resources
+D:\backup project.net\STABLE STABLE STABLE STABLE STSBLE STABLE\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.Form_ghiChu.resources
+D:\backup project.net\STABLE STABLE STABLE STABLE STSBLE STABLE\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.MainForm.resources
+D:\backup project.net\STABLE STABLE STABLE STABLE STSBLE STABLE\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.Properties.Resources.resources
+D:\backup project.net\STABLE STABLE STABLE STABLE STSBLE STABLE\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.csproj.GenerateResource.cache
+D:\backup project.net\STABLE STABLE STABLE STABLE STSBLE STABLE\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.AssemblyInfoInputs.cache
+D:\backup project.net\STABLE STABLE STABLE STABLE STSBLE STABLE\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.AssemblyInfo.cs
+D:\backup project.net\STABLE STABLE STABLE STABLE STSBLE STABLE\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.csproj.CoreCompileInputs.cache
+D:\backup project.net\STABLE STABLE STABLE STABLE STSBLE STABLE\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.csproj.CopyComplete
+D:\backup project.net\STABLE STABLE STABLE STABLE STSBLE STABLE\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.dll
+D:\backup project.net\STABLE STABLE STABLE STABLE STSBLE STABLE\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.pdb
+D:\backup project.net\STABLE STABLE STABLE STABLE STSBLE STABLE\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\NLUSchedule\NLUSchedule\obj\Debug\netcoreapp3.1\NLUSchedule.csproj.CoreCompileInputs.cache

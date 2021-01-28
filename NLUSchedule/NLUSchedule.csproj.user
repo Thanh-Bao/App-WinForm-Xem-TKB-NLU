@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="checkUser\CheckInternet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormHocPhi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLichThi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSwitchTKB\FormCalendarTKB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSwitchTKB\FormTableTKB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormViewTKB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ghiChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
